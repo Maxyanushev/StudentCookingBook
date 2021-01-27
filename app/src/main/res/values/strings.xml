@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cooking Book</string>
+    <string name="btnForCheckBox">Выберите блюдо</string>
+    <string name="tvMain">или вибирете что готовить из рецептов ниже</string>
+</resources>
