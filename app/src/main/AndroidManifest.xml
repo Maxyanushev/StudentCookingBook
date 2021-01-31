@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CookingBook">
-        <activity android:name=".CheckBoxRecipes"></activity>
+        <activity android:name=".CheckBoxRecipes">
+
+        </activity>
         <activity android:name=".ListOfRecipes" />
         <activity android:name=".MainActivity">
             <intent-filter>

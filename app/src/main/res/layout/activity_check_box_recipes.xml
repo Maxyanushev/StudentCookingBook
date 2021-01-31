@@ -54,123 +54,123 @@
 
                     <CheckBox
                         android:id="@+id/checkBox19"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Хлеб"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox18"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Соль"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Мёд"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox2"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="170dp"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Кетчуп"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox4"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Сметана"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox5"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Молоко"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox9"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Яблоки"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox10"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Груши"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox11"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Кусочки мяса"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox12"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Специи для мяса"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox13"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Орехи"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox14"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Картошка"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox16"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Макароны"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox15"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Гречка"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox17"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Рис"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                 </LinearLayout>
 
@@ -181,123 +181,123 @@
 
                     <CheckBox
                         android:id="@+id/checkBox30"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Яйца"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox29"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Огурцы"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox20"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Помидоры"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox28"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Олия"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox27"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Сахар"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox26"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Масло"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox25"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Чай"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox24"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Капуста"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox23"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Лук"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox22"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Чеснок"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox3"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="170dp"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Кофе"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox6"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Сыр"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox7"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Колбаса"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox8"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Пельмени"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
 
                     <CheckBox
                         android:id="@+id/checkBox21"
-                        android:textColor="@color/white"
-                        android:textStyle="bold"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="CheckBox" />
+                        android:text="Пшено"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
                 </LinearLayout>
             </LinearLayout>
         </ScrollView>
