@@ -6,25 +6,24 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 
-public class CheckBoxRecipes extends AppCompatActivity {
+public class ResultActivity extends AppCompatActivity {
 
-    Button btnInCheckBox;
+    Button btnBackResultActivity;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_check_box_recipes);
+        setContentView(R.layout.activity_result);
 
-        btnInCheckBox = findViewById(R.id.btnInCheckBox);
+        btnBackResultActivity = findViewById(R.id.btnBackForResult);
 
-        btnInCheckBox.setOnClickListener(v -> {
+        btnBackResultActivity.setOnClickListener(v -> {
             startActivity();
         });
-
     }
 
     private void startActivity() {
-        Intent intent = new Intent(this, ResultActivity.class);
+        Intent intent = new Intent(this, CheckBoxRecipes.class);
         startActivity(intent);
         finish();
     }
