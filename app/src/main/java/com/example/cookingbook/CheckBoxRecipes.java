@@ -28,5 +28,4 @@ public class CheckBoxRecipes extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
-
 }
